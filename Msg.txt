@@ -1,0 +1,4 @@
+Author: Peter, vdthe@humaxdigital.com
+Ticket:
+Change: practice git commit --amend
+
